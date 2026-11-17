@@ -1,0 +1,12 @@
+.tasks-section {
+  margin-bottom: 24px;
+}
+
+.task-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
